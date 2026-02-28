@@ -9,7 +9,7 @@ if(isloggedin){
     console.log("User is logged in");
 }
 
-const isnotloggedin = 0;
+const isnotloggedin = null;
 if(isnotloggedin){
     console.log("User is not logged in");
 }else{

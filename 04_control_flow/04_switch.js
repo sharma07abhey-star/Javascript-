@@ -7,7 +7,7 @@
 //         break;
 // }
 
-const month = 17;
+const month = 12;
 switch (month) {
     case 1:
         console.log("january");

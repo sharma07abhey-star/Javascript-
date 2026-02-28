@@ -2,7 +2,7 @@
 
 const a = null;
 const b = 42;
-const c = a ?? b;
+const c = a ?? b; // this will return 42 because a is null
 console.log(c); // 42
 
 
